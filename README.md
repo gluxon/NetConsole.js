@@ -27,5 +27,9 @@ NetConsole.js is distributed under the [MPL 2.0](http://www.mozilla.org/MPL/2.0/
 
 ## Changelog
 
+#### 1.1
+- Remove readline prompt (not working right)
+- Use process.stdout.write instead of console.log and trimming
+
 #### 1.0
 - Initial Release

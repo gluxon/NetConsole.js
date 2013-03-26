@@ -1,6 +1,9 @@
 # NetConsole.js
 
 NetConsole.js listens and sends output from the cRIO to your screen.
+Concept for this was taken from Team 1073's
+[initial version](https://github.com/FRCTeam1073-TheForceTeam/netconsole.js)
+and rbmj's [Python implementation](https://github.com/rbmj/netconsole).
 
 ## vxWorks Commands
 
@@ -11,14 +14,12 @@ A reference sheet for valid commands can be found in the link below.
 ## Usage
 
 Clone oculus.js from Git
-```
-git clone https://github.com/gluxon/NetConsole.js
-```
+
+    git clone https://github.com/gluxon/NetConsole.js
 
 Start NetConsole.js with Node.js
-```
-node NetConsole.js
-```
+
+    node NetConsole.js
 
 ## License
 

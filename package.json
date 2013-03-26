@@ -1,0 +1,16 @@
+{
+  "name": "NetConsole.js",
+  "version": "1.0.0",
+  "author": "gluxon <gluxon@gluxon.com>",
+  "description": "NetConsole for cRIO implemented in Node.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/team178/enforce.js.git"
+  },
+  "dependencies" : {
+  },
+  "license": "MPL",
+  "engines": {
+    "node": ">=0.8"
+  }
+}
